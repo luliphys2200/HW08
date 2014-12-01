@@ -1,0 +1,7 @@
+unset key
+set style data line
+
+set term png
+set o "initial-altitude.png"
+
+p "resia"
