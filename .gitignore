@@ -23,4 +23,6 @@
 # Unignore graphics files
 !*.png
 
+# Unignore .gpl
+!*.gpl
 
